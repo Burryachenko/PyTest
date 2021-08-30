@@ -1,1 +1,1 @@
-# PyTest
+# Repository for Python tests
